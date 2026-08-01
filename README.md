@@ -3,7 +3,7 @@
 A machine learning web service that predicts a patient's risk of heart disease from clinical parameters, built with scikit-learn and served via a Flask REST API. Deployed on Render.
 
 🔗 **Dataset:** [Heart Disease Dataset — Kaggle (johnsmith88)](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
-🚀 **Live Demo:** `[https://<your-app>.onrender.com](https://assignment-10-2ubb.onrender.com)` *(update after deploying)*
+🚀 **Live Demo:** https://assignment-10-2ubb.onrender.com
 
 ## Overview
 
